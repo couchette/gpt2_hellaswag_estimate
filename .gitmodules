@@ -1,0 +1,3 @@
+[submodule "hellaswag"]
+	path = hellaswag
+	url = https://github.com/rowanz/hellaswag.git
