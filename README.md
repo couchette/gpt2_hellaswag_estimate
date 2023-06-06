@@ -1,6 +1,6 @@
 # gpt2_hellaswag_estimate
 
-you can learn about HellaSwag dataset through [github](https://github.com/rowanz/hellaswag), [pdf]([1905.07830.pdf (arxiv.org)](https://arxiv.org/pdf/1905.07830.pdf)). 
+You can learn about HellaSwag dataset through [github](https://github.com/rowanz/hellaswag), [pdf]([1905.07830.pdf (arxiv.org)](https://arxiv.org/pdf/1905.07830.pdf). 
 
 ## How to use
 
